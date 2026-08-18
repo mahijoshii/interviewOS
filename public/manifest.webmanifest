@@ -1,0 +1,13 @@
+{
+  "name": "InterviewOS",
+  "short_name": "InterviewOS",
+  "description": "A daily personal interview-preparation dashboard.",
+  "start_url": "/interviewOS/#/today",
+  "scope": "/interviewOS/",
+  "display": "standalone",
+  "background_color": "#f7f7f4",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "/interviewOS/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

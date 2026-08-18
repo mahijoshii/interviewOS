@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+coverage/
+*.local
+.env
+.env.*
+resume.md
+resume.pdf
+*.resume.md
+*.resume.pdf
+Joshi_Mahi_Resume_Aug2026.pdf
